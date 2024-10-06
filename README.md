@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **negarpr@hotmail.com**
 
-- ⚡ Fun fact **I am a tech savvy!**
+- ⚡ Fun fact **I am a tech-savvy!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
