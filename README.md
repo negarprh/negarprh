@@ -9,8 +9,6 @@
 </p> 
 
 
-
-
 - 🌱 I’m currently learning **Python, Django and Data Structure and Algorithm**
 
 - 📫 How to reach me **negarpr@hotmail.com**
