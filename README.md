@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Negar Pirasteh</h1>
 <h3 align="center">A Computer Science Student, on a Journey to become a Full-Stack Developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=negarprh&label=Profile%20views&color=0e75b6&style=flat" alt="negarprh" /> </p>
+
 
 <p align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5ra3N1b2Z2MnJ2enc0cTVvaWd6cDlydGk4YjV3cHBzZW9rMXhzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aMNUMwth3DaiiiC5IO/giphy.gif" width="400" />  
 </p> 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=negarprh&label=Profile%20views&color=0e75b6&style=flat" alt="negarprh" /> </p>
 
 
 
