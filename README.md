@@ -11,7 +11,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, C# and Data Structure and Algorithm**
+- 🌱 I’m currently learning **Python, Django and Data Structure and Algorithm**
 
 - 📫 How to reach me **negarpr@hotmail.com**
 
