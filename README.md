@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/negar-pirasteh" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>  
-  <a href="https://www.leetcode.com/ngr_pr" target="blank">
+  <a href="https://www.leetcode.com/ngr_p" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>  
   <a href="https://instagram.com/negar_tech" target="blank">
