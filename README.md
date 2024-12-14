@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Negar Pirasteh</h1>
-<h3 align="center">Aspiring Back-End Developer | Building Full-Stack Solutions</h3>
+<h3 align="center">Aspiring Back-End Developer | Building Full-Stack Projects</h3>
 
 
 
