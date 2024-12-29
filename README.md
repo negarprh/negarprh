@@ -11,11 +11,11 @@
 
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
 - 🔧 Currently building **full-stack projects** with a focus on **back-end development**.  
-- 🌱 Learning **Python, Django, and Data Structures & Algorithms** to improve my problem-solving skills.  
+- 🌱 Learning **Python, Django, pytorch, and Data Structures & Algorithms** to improve my problem-solving skills.  
 - 🛠️ Hands-on experience in building **.NET Windows Forms apps** connected to **SQL Server (SSMS)**.  
 - 📊 Exploring tools like **Pandas** and **Matplotlib** for data-driven solutions.  
 
-- 📫 **How to reach me**: negarprh@hotmail.com  
+- 📫 **How to reach me**: negarpr@hotmail.com  
 
 ---
 
