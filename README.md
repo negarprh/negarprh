@@ -10,9 +10,10 @@
 🌐 **Portfolio Website**  
 Check out my portfolio:
 
-<a href="https://negarprh.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" />
+<a href="https://yourwebsiteurl.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=github" />
 </a>
+
 
 ### 👩‍💻 **About Me**  
 
