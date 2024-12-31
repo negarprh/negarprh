@@ -8,7 +8,7 @@
 </p> 
 
 ### 👩‍💻 **About Me**  
-
+- 🖥️ **Portfolio**: [My Personal Portfolio](https://negarprh.github.io/Portfolio/)
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
 - 🔧 Currently building **full-stack projects** with a focus on **back-end development**.  
 - 🌱 Learning **Python, Django, Pytorch, and Data Structures & Algorithms** to improve my problem-solving skills.  
