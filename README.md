@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Negar Pirasteh</h1>
 <h3 align="center">Aspiring Back-End Developer | Building Full-Stack Projects</h3>
 
+🌐 **Portfolio Website**  
+Check out my portfolio:
 
+<a href="https://negarprh.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=github" />
+</a>
 
 <p align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h0cWNlcnhlb2diMGI4OHE3anllYmU2djdwa3ZhcWpsYWtrYnk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DI768v3mPZzjMexZ1v/giphy.gif" width="600" />  
 </p> 
 
-🌐 **Portfolio Website**  
-Check out my portfolio:
 
-<a href="https://yourwebsiteurl.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge&logo=github" />
-</a>
 
 
 ### 👩‍💻 **About Me**  
