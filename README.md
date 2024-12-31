@@ -17,6 +17,10 @@
 
 - 📫 **How to reach me**: negarpr@hotmail.com  
 
+<a href="https://yourwebsiteurl.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" />
+</a>
+
 ---
 
 ## 💻 Tech Stack:
