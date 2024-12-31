@@ -7,8 +7,14 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h0cWNlcnhlb2diMGI4OHE3anllYmU2djdwa3ZhcWpsYWtrYnk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DI768v3mPZzjMexZ1v/giphy.gif" width="600" />  
 </p> 
 
+🌐 **Portfolio Website**  
+Check out my portfolio:
+<a href="https://negarprh.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" />
+</a>
+
 ### 👩‍💻 **About Me**  
-- 🖥️ **Portfolio**: [My Personal Portfolio](https://negarprh.github.io/Portfolio/)
+
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
 - 🔧 Currently building **full-stack projects** with a focus on **back-end development**.  
 - 🌱 Learning **Python, Django, Pytorch, and Data Structures & Algorithms** to improve my problem-solving skills.  
@@ -17,9 +23,6 @@
 
 - 📫 **How to reach me**: negarpr@hotmail.com  
 
-<a href="https://yourwebsiteurl.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=github" />
-</a>
 
 ---
 
