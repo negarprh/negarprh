@@ -16,7 +16,7 @@ Check out my portfolio👇
 ### 👩‍💻 **About Me**  
 
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
-- 💻 **Back-End Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL, and Docker**.  
+- 💻 **Backend Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL**.  
 - 🔧 **Building personal projects** using **Python, Django, and SQL**, focusing on data-driven applications.  
 - 🌱 **Currently Learning:** **Spring Boot** (Java) to expand my expertise in back-end development.  
 - 🚀 Passionate about **API development, database optimization, and scalable system design**.  
