@@ -18,7 +18,7 @@ Check out my portfolio👇
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
 - 💻 **Backend Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL**.  
 - 🔧 **Building personal projects** using **Python, Django, and SQL**, focusing on data-driven applications.  
-- 🌱 **Currently Learning:** **Spring Boot** (Java) to expand my expertise in back-end development.  
+- 🌱 **Currently Learning:** **Spring Boot** (Java) to expand my expertise in backend development, practicing data structure and Algorithm.  
 - 🚀 Passionate about **API development, database optimization, and scalable system design**.  
 
 - 📫 **How to reach me**: negarpr@hotmail.com  
