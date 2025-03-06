@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Negar Pirasteh</h1>
-<h3 align="center">Aspiring Back-End Developer | Building Full-Stack Projects</h3>
+<h3 align="center">Aspiring Back-End Developer</h3>
 
 <p align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h0cWNlcnhlb2diMGI4OHE3anllYmU2djdwa3ZhcWpsYWtrYnk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DI768v3mPZzjMexZ1v/giphy.gif" width="600" />  
