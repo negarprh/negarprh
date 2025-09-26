@@ -17,7 +17,6 @@ Check out my portfolio👇
 
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
 - 💻 **Ex Software Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL, React**.  
-- 🔧 **Building personal projects** using **Python, Django, and SQL**, focusing on data-driven applications.  
 - 🌱 **Currently Learning:** **AWS** to get solutions architect associate certification, **Spring Boot** (Java) to expand my expertise in backend development, practicing data structures and algorithms.  
 - 🚀 Passionate about **API development, database optimization, and scalable system design**.  
 
