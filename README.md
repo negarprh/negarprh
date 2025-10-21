@@ -1,5 +1,5 @@
 <h1 align="center">👩🏻‍💻I'm Negar Pirasteh</h1>
-<h3 align="center">Aspiring Full Stack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">  
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h0cWNlcnhlb2diMGI4OHE3anllYmU2djdwa3ZhcWpsYWtrYnk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DI768v3mPZzjMexZ1v/giphy.gif" width="600" />  
@@ -16,7 +16,7 @@ Check out my portfolio👇
 ### 👩‍💻 **About Me**  
 
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
-- 💻 **Ex Software Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL, React**.  
+- 💻 **Ex Software Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL**.  
 - 🌱 **Currently Learning:** **AWS** to get solutions architect associate certification, **Spring Boot** (Java) to expand my expertise in backend development, practicing data structures and algorithms.  
 - 🚀 Passionate about **API development, database optimization, and scalable system design**.  
 
