@@ -88,7 +88,7 @@ Check out my portfolio👇
 <!--   <a href="https://www.leetcode.com/ngr_p" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>   -->
-  <a href="https://instagram.com/negar_tech" target="blank">
+  <!-- <a href="https://instagram.com/negar_tech" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>  
+  </a>   -->
 </p>  
