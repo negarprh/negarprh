@@ -16,8 +16,8 @@ Check out my portfolio👇
 ### 👩‍💻 **About Me**  
 
 - 🎓 **Computer Science Student** at **Lasalle College** | Graduating **Summer 2026**  
-- 💼 **Software Developer** at **Lienzo**
-- 💻 **Ex Software Developer Intern** at **Ozex**, working with **TypeScript, Express.js, PostgreSQL, Prisma**.  
+- 💼 **Ex Software Developer** at **Lienzo**, worked with **TypeScript, NestJs, PostgreSQL, Angular, Prisma**. 
+- 💻 **Ex Software Developer Intern** at **Ozex**, worked with **TypeScript, Express.js, PostgreSQL, Prisma**.  
 - 🌱 **Currently Learning:** **AWS** to get solutions architect associate certification, practicing data structures and algorithms.  
 - 🚀 Passionate about **API development, database optimization, and scalable system design**.  
 
