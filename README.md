@@ -4,11 +4,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/dk2HioXvPxCktyeYnU/giphy.gif"
        alt="Developer animation"
-       width="480" />
+       width="600" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/negar-">
+  <a href="https://linkedin.com/in/negar-pirasteh">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://negarprh.github.io/Portfolio/">
@@ -33,7 +33,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
