@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/dk2HioXvPxCktyeYnU/giphy.gif"
        alt="Developer animation"
-       width="600" />
+       width="480" />
 </p>
 
 <p align="center">
