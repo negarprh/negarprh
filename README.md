@@ -21,7 +21,7 @@
 
 - 💼 Software Developer at **Stay22**.
 - 🎓 **DEC in Computer Science** from LaSalle College.
-- ⚙️ Previously worked aa Software Developer at **Lienzo, Tail’ed, and Ozex**.
+- ⚙️ Previously worked as Software Developer at **Lienzo, Tail’ed, and Ozex**.
 - 🚀 Interested in **backend architecture, API development, automation, and scalable systems**.
 - 📫 Reach me at **negarpr@hotmail.com**.
 
